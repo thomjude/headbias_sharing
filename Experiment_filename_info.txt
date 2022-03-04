@@ -1,0 +1,3 @@
+Exp1 = Loco_MEMexperiment_*SubjectNr*
+Exp2 = Real_1_MEMexperiment_*SubjectNr*
+Exp3 = Real_MEMexperiment_*SubjectNr*
